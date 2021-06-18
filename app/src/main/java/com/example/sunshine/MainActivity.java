@@ -191,7 +191,7 @@ public class MainActivity extends AppCompatActivity {
         //////////////
 
 
-        //NEW SHIT
+        //NEW
 
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
