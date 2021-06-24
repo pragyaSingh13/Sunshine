@@ -162,7 +162,7 @@ public class MainActivity extends AppCompatActivity {
         imageView = findViewById(id.imageView2);
 
 
-        ///ARRAY LIST SHIT
+        ///ARRAY LIST
         int count =0 ;
         inputStreamcounter  = this.getResources().openRawResource(raw.citydata);
         bufferedReadercounter = new BufferedReader(new InputStreamReader(inputStreamcounter));
