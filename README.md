@@ -1,5 +1,5 @@
 # Sunshine
-Any new improvement or feature are welcome
+Any new improvement or feature are welcome!       
 An app to get current weather related info of any city in the world
 
 <img src="images/Screenshot_2021-06-07-16-11-04-848_com.example.sunshine.jpg" width = "200" height= "400">
